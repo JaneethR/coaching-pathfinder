@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import QuestionStep from './QuestionStep';
@@ -61,7 +60,7 @@ const CoachingPathfinder: React.FC = () => {
           >
             Find Your Path
           </motion.div>
-          <h1 className="text-3xl md:text-4xl font-semibold mb-3">Coaching Pathfinder</h1>
+          <h1 className="text-3xl md:text-4xl font-semibold mb-3">Ramindu Randeni Coaching Pathfinder</h1>
           <p className="text-muted-foreground max-w-xl mx-auto">
             Answer a few questions to discover the perfect coaching program tailored to your specific needs and goals.
           </p>
